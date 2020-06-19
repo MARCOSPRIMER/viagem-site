@@ -4,8 +4,8 @@ function MyAmazingComponent() {
   
   return (
     <div>
-      <h1 className="section-title section-title--blue">This Is My Amazing React Component</h1>
-      <p>React is great, the sky is blue.</p>
+      <h1 className="section-title section-title--blue">Este é um teste de React</h1>
+      <p>React sera a nova geracao em nossas festas.</p>
     </div>
   )
 }
